@@ -1,0 +1,23 @@
+.noticia a {
+	text-decoration: none;
+}
+#datanote{
+	display: none;
+}
+#datanote2{
+	display: none;
+}
+#datanote3{
+	display: none;
+}
+
+.container.pb-5{
+	display: none;
+}
+.col-lg-4.mt-5.mt-lg-0{
+	display: none;
+}
+              
+.row.pt-5{
+	display:none;
+}      
