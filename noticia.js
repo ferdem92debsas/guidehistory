@@ -1,5 +1,5 @@
 let link1= document.getElementById('note1');
-let dir1="https://www.profitablecpmrate.com/fb9uejhd?key=616262121f2ce0f81d123b2693cfd926";
+let dir1="https://www.effectivegatecpm.com/aqxh5x2va?key=1893b6d610c90abca69ff35b04f457c6";
 
 
 link1.addEventListener('click',function(e){
